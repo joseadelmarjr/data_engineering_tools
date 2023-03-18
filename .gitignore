@@ -10,7 +10,7 @@ __pycache__/
 ehthumbs.db
 Thumbs.db
 /airflow/dags/keys
-/airflow/logs
+*airflow/logs*
 .env
 .venv
 .vscode/settings.json
