@@ -10,7 +10,7 @@
 ### O que já temos
 
 - [x] [Docker/Airflow](docker/airflow/README.md);
-- [x] [Docker/Jupyter + Spark](docker/jupyter_spark); 
+- [x] [Docker/Jupyter + Spark](docker/jupyter_spark/README.md); 
 - [x] [Exemplos de Python](docker/jupyter_spark/workspace/python_example.ipynb);
 - [x] [Exemplos de SQL](docker/jupyter_spark/workspace/sql_example.ipynb);
 - [x] [Exemplos de PySpark](docker/jupyter_spark/workspace/pyspark_example.ipynb).
