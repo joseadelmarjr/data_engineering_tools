@@ -14,6 +14,7 @@
 - [x] [Exemplos de Python](docker/jupyter_spark/workspace/python_example.ipynb);
 - [x] [Exemplos de SQL](docker/jupyter_spark/workspace/sql_example.ipynb);
 - [x] [Exemplos de PySpark](docker/jupyter_spark/workspace/pyspark_example.ipynb).
+- [x] [Power BI](powerbi/README.md)
 
 ### O que quero adicionar
 
