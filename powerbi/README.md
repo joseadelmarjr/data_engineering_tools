@@ -13,9 +13,9 @@ A construção do dashboard acima foi feita durante palestra que se tornaram em 
 
 ### - 1 - Fundamentos e primeiros passos
 
-[![Watch the video](https://img.youtube.com/vi/tVcMWnVTSRY/hqdefault.jpg)](https://www.youtube.com/embed/tVcMWnVTSRY)
+[![Watch the video](https://img.youtube.com/vi/Y8cfSVygQFY/hqdefault.jpg)](https://www.youtube.com/embed/Y8cfSVygQFY)
 
-<br><br><br>
+
 No primeiro vídeo temos:
 
 - [x]  Power BI e seus concorrentes
@@ -29,8 +29,7 @@ No primeiro vídeo temos:
 
 
 ### - 2 - Drill-through, medidas e RLS
-[![Watch the video](https://img.youtube.com/vi/tVcMWnVTSRY/hqdefault.jpg)](https://www.youtube.com/embed/tVcMWnVTSRY)
-<br><br><br>
+[![Watch the video](https://img.youtube.com/vi/KO01TEnKbLA/hqdefault.jpg)](https://www.youtube.com/embed/KO01TEnKbLA)
 
 No segundo temos:
 - [x]  Drill-through
@@ -46,8 +45,8 @@ No segundo temos:
 
 
 ### - 3 - Gráficos avançados, publicação e exportações
-[![Watch the video](https://img.youtube.com/vi/tVcMWnVTSRY/hqdefault.jpg)](https://www.youtube.com/embed/tVcMWnVTSRY)
-<br><br><br>
+[![Watch the video](https://img.youtube.com/vi/AWvHQ2Hj65Y/hqdefault.jpg)](https://www.youtube.com/embed/AWvHQ2Hj65Y)
+
 
 No terceiro temos:
 - [x]  Tacômetro
