@@ -3,7 +3,7 @@
 Abaixo um exemplo de desenvolvimento de um dashboard em PowerBI com recursos básicos e intermediários de análise e manuseio.
 
 <video controls>
-  <source src="./video/dashboard_demo.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/joseadelmarjr/data_engineering_tools/add-power-bi-project/powerbi/video/Dashboard_demo.mp4" type="video/mp4">
 </video>
 
 ## - Como fazer
