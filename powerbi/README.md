@@ -13,7 +13,9 @@ A construção do dashboard acima foi feita durante palestra que se tornaram em 
 
 ### - 1 - Fundamentos e primeiros passos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tVcMWnVTSRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[video](https://youtu.be/tVcMWnVTSRY)
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tVcMWnVTSRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <br><br><br>
 No primeiro vídeo temos:
