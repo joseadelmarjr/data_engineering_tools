@@ -25,7 +25,9 @@ A ideia é manter meu roadMap de estudos por aqui e abaixo seguem alguns pontos 
 - [ ] Terraform + Azure
 - [ ] DBT
 - [ ] DataBricks
-
+- [ ] Apache Hop
+- [ ] Apache Kafka
+- [ ] Apache Pulsar
 
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/joseadelmarjr/data_engineering_tools?style=for-the-badge)
